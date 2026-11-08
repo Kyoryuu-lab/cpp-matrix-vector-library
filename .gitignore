@@ -1,0 +1,25 @@
+# Build Artifacts
+build/
+bin/
+obj/
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+
+# CMake Cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Generated outputs
+output_vector.txt
+
+# IDEs & OS Metadata
+.idea/
+.vscode/
+.vs/
+.DS_Store
